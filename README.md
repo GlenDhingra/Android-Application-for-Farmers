@@ -12,11 +12,12 @@ Multilingual Voice-Enabled Chatbot: We designed a voice-enabled chatbot that all
 SMS Communication System: We implemented an SMS system that enables farmers to communicate and resolve their issues efficiently. This feature aims to provide a direct and accessible channel for farmers to seek assistance and support.
 
 Geo-Location Services: The application also includes geo-location services, allowing farmers to find nearby places, markets, or support centers with the help of integrated maps.
-Getting Started
+
+Getting Started:
 To explore and contribute to this project, follow these steps:
 
 Clone the Repository:
-git clone https://github.com/your-username/farmers-app.git
+git clone [https://github.com/your-username/farmers-app.git](https://github.com/GlenDhingra/Android-Application-for-Farmers.git)
 
 Set Up Android Studio:
 Download and install Android Studio.
