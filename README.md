@@ -17,7 +17,7 @@ Getting Started:
 To explore and contribute to this project, follow these steps:
 
 Clone the Repository:
-git clone [https://github.com/your-username/farmers-app.git](https://github.com/GlenDhingra/Android-Application-for-Farmers.git)
+git clone (https://github.com/GlenDhingra/Android-Application-for-Farmers.git)
 
 Set Up Android Studio:
 Download and install Android Studio.
